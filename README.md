@@ -13,4 +13,4 @@ Loan and credit-card defaults pose financial risks to banks and other financial 
 Traditional credit assessment methods may not always identify customers who are likely to default.
 
 This project explores how data analysis and machine learning can be used to identify important factors associated with customer defaults and predict potential defaults using historical financial data.
-ttyyuuuhiihijkk
+
